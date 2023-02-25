@@ -14,6 +14,15 @@
   </p>
 </p>
 
+<div align="center">
+
+  <a href="">[![Github all releases](https://img.shields.io/github/downloads/OugiFormula/GarlicOSaladEdition/SALADEDITION.zip)](https://GitHub.com/OugiFormula/GarlicOSaladEdition/releases/)</a>
+  <a href="https://discord.com/invite/kXwKpsKuCB">![Discord](https://img.shields.io/discord/842050187178410034)</a>
+  <a href="">![ReleaseDate](https://img.shields.io/github/release-date/OugiFormula/GarlicOSaladEdition)</a>
+
+</div>
+
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your console.
