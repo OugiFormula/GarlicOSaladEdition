@@ -51,4 +51,4 @@ A small preview of the theme.
 <img src="https://cdn.discordapp.com/attachments/796879873914044486/1079056706778181683/preview.png" alt="Logo">
 
 Using this theme? send me images on discord and I will upload it here!
-
+<a href="https://discord.com/invite/kXwKpsKuCB">![Discord](https://img.shields.io/discord/842050187178410034)</a>
