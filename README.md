@@ -7,7 +7,7 @@
   <h3 align="center">Garlic Os Theme: Salad Edition</h3>
 
   <p align="center">
-    Garlic OS is an operating system for the game console RG35XX, this is a theme for the console.
+    Garlic OS is an operating system for the game console RG35XX, this is a theme made after the salad brand for the console.
     <br />
     <br />
     <br />
